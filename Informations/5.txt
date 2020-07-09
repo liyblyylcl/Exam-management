@@ -1,0 +1,7 @@
+
+5.编译Java Application 源程序文件将产生相应的字节码文件，这些字节码文件的扩展名为( )。
+ 
+  A、.java 
+  B、.class
+  C、.html 
+  D、.exe
